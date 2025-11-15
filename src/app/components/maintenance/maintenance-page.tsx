@@ -125,7 +125,7 @@ export function MaintenancePage({ deadline }: MaintenancePageProps) {
           className="flex items-center justify-between text-[0.55rem] uppercase tracking-[0.28rem] text-primary/80 sm:text-xs sm:tracking-[0.35rem]"
         >
           <span className="font-semibold tracking-[0.35rem] sm:tracking-[0.45rem]">
-            PT SILATECH INDONESIA
+            PT TRADISI SILATECH INDONESIA
           </span>
           <nav className="hidden gap-6 text-[0.65rem] tracking-[0.25rem] text-muted-foreground sm:flex sm:text-xs sm:tracking-[0.35rem]">
             <Link className="transition-colors hover:text-primary" href="#about">
@@ -145,12 +145,6 @@ export function MaintenancePage({ deadline }: MaintenancePageProps) {
           className="flex flex-1 flex-col items-center justify-center gap-7 text-center text-sm sm:gap-8 sm:text-base"
         >
           <div className="space-y-4 sm:space-y-6">
-            <p
-              data-animate="headline"
-              className="text-[0.6rem] uppercase tracking-[0.32rem] text-primary/70 sm:text-xs sm:tracking-[0.55rem]"
-            >
-              PLATFORM IP BUDAYA INDONESIA
-            </p>
             <h1
               data-animate="headline"
               className="text-3xl font-semibold uppercase tracking-[0.45rem] text-primary drop-shadow sm:text-4xl sm:tracking-[0.6rem] md:text-6xl md:tracking-[0.8rem]"
@@ -161,7 +155,7 @@ export function MaintenancePage({ deadline }: MaintenancePageProps) {
               data-animate="headline"
               className="mx-auto max-w-xl text-pretty text-xs text-muted-foreground sm:max-w-2xl sm:text-sm"
             >
-              PT Silatech Indonesia adalah platform lisensi IP budaya yang
+              PT Tradisi Silatech Indonesia adalah platform lisensi IP budaya yang
               mendigitalisasi dan mengkurasi cerita rakyat, mitologi, dan desain
               tradisional Indonesia agar siap digunakan secara etis oleh film,
               game, fashion, dan media global. Hitung mundur ini menuju
@@ -220,7 +214,7 @@ export function MaintenancePage({ deadline }: MaintenancePageProps) {
           className="flex flex-col gap-5 pt-10 text-[0.6rem] uppercase tracking-[0.25rem] text-muted-foreground sm:flex-row sm:items-center sm:justify-between sm:text-xs sm:tracking-[0.35rem]"
         >
           <span>
-            © 2025 PT Silatech Indonesia — Jembatan IP budaya ke pasar global.
+            © 2025 PT Tradisi Silatech Indonesia — Jembatan IP budaya ke pasar global.
           </span>
           <div className="flex items-center justify-center gap-4 text-primary sm:gap-5">
             <SocialLink
